@@ -6,8 +6,6 @@ Sitio público del producto de **Educación Física**, Unidad 6 (III bimestre):
 
 ## Ver en línea
 
-Cuando GitHub Pages esté activo:
-
 **https://disneymedina.github.io/portafolio-digital-Cristely/**
 
 ## Contenido
